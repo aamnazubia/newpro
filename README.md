@@ -1,2 +1,2 @@
 # newpro
-Hello
+print("Hello, World!")
